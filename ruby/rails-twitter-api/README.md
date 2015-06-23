@@ -32,4 +32,4 @@ This challenge generally takes candidates no more than 2 hours to complete.
   1. Local environment setup instructions
   1. Basic Heroku deployment instructions
   1. Test suite setup/execution instructions (if applicable) 
-1. Email links to your **public GitHub** repo and **live Heroku** application to [devs@stacksocial.com](mailto:devs@stacksocial.com)
+1. Email links to your **public GitHub** repo and **live Heroku** application to [dev-challenge@stacksocial.com](mailto:dev-challenge@stacksocial.com)

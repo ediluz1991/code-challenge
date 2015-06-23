@@ -39,4 +39,4 @@ This challenge generally takes candidates no more than 1.5 hours to complete.
 
 1. Setup a public [GitHub](https://github.com/) repository to host the JS and HTML files.
 1. Create a Readme file within the repository that contains any special instructions for runnin your code. 
-1. Email links to your **public GitHub** repo and **live Heroku** application to [devs@stacksocial.com](mailto:devs@stacksocial.com)
+1. Email links to your **public GitHub** repo and **live Heroku** application to [dev-challenge@stacksocial.com](mailto:dev-challenge@stacksocial.com)
