@@ -5,6 +5,7 @@
 This challenge is designed to test your skills with:
 
 * Ruby on Rails
+* Object-Oriented Design 
 * Consuming RESTful APIs
 * Git
 * Cloud Deployments

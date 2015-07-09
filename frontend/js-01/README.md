@@ -14,8 +14,8 @@ This challenge generally takes candidates no more than 1.5 hours to complete.
 1. Create a namespace called `SC`
 1. Create a namespace called `SC.Abstract`
 1. Create a class `Vehicle` inside the namespace `SC.Abstract`
-1. Implement properties `name`, `seats` & `wheels`
-    * Implement `getter` and `setter` methods on these properties
+  * Implement properties `name`, `seats` & `wheels`
+      * Implement `getter` and `setter` methods on these properties
 
 ### Part 2: Inheritance
 1. Create a namespace called `SC.Instances`
@@ -38,5 +38,5 @@ This challenge generally takes candidates no more than 1.5 hours to complete.
 ## Submission Guidelines
 
 1. Setup a public [GitHub](https://github.com/) repository to host the JS and HTML files.
-1. Create a Readme file within the repository that contains any special instructions for runnin your code. 
+1. Create a Readme file within the repository that contains any special instructions for running your code. 
 1. Email links to your **public GitHub** repo and **live Heroku** application to [dev-challenge@stacksocial.com](mailto:dev-challenge@stacksocial.com)
