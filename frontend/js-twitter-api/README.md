@@ -1,29 +1,30 @@
-# StackCommerce Rails Twitter API Challenge
+# StackCommerce JS Twitter API Challenge
 
 ## Goals
 
 This challenge is designed to test your skills with:
 
-* Ruby on Rails
+* JavaScript
+* JavaScript Frameworks (Angular, Backbone, React etc)
 * Object-Oriented Design 
 * Consuming RESTful APIs
 * Git
 * Cloud Deployments
 
-This challenge generally takes candidates no more than 2 hours to complete.
+This challenge generally takes candidates no more than 3 hours to complete.
 
 ## Requirements
 
 1. Setup a public GitHub repository to host the code.
-1. Create a Rails 4.1+ application
-  1. Create an authentication layer to protect access from the general public.
+1. Use your favorite JavaScript framework (preferably Angular, Backbone or React) to:
   1. Consume the [Twitter API](https://dev.twitter.com/docs/api) to display the time & content of the last 25 tweets for any given Twitter handle.
+  1. Make the UI spiffy.
+  1. Feel free to package this app in Rails/Node as required.
 1. Deploy the application to Heroku (free app/tier).
 
 ### Bonus Points
 
 * Writing specs/tests!
-* Caching identical API calls for ~5 mins to avoid hammering the Twitter API.
 * Parsing `@mentions` in tweets and linking to the status pages for those.
 * Anything else cool that you can think of.
 
