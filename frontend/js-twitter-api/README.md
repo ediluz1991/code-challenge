@@ -24,7 +24,8 @@ This challenge generally takes candidates no more than 3 hours to complete.
 
 ### Bonus Points
 
-* Writing specs/tests!
+* Writing specs/tests (big plus).
+* Making the site responsive (big plus).
 * Parsing `@mentions` in tweets and linking to the status pages for those.
 * Anything else cool that you can think of.
 
