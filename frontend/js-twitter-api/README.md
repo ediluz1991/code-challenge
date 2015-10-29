@@ -13,13 +13,15 @@ This challenge is designed to test your skills with:
 
 This challenge generally takes candidates no more than 3 hours to complete.
 
+**Please do not use any JavaScript starter app as the base of your application**
+
 ## Requirements
 
 1. Setup a public GitHub repository to host the code.
 1. Use your favorite JavaScript framework (preferably Angular, Backbone or React) to:
   1. Consume the [Twitter API](https://dev.twitter.com/docs/api) to display the time & content of the last 25 tweets for any given Twitter handle.
   1. Make the UI spiffy.
-  1. Feel free to package this app in Rails/Node as required.
+  1. Feel free to package this app in Rails/Node/Django as needed.
 1. Deploy the application to Heroku (free app/tier).
 
 ### Bonus Points
